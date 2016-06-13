@@ -1,0 +1,201 @@
+Age;AD_Keywords;Gender;Ethnicity;Zip;State;Disease
+[61 - 80];convallis nulla neque libero convallis;M;White;570**;SD;COPD
+[61 - 80];massa tempor convallis nulla neque;M;Hispanic;175**;PA;Stroke
+[21 - 40];mi nulla ac enim;M;White;301**;GA;COPD
+[41 - 60];lacus curabitur at;M;White;488**;MI;Depression
+[61 - 80];posuere metus vitae ipsum aliquam;M;White;953**;CA;
+[41 - 60];id;M;Black;928**;CA;COPD
+[21 - 40];ac lobortis vel dapibus at;M;White;900**;CA;COPD
+[61 - 80];nisi vulputate nonummy maecenas tincidunt;M;Other;465**;IN;COPD
+[21 - 40];ut suscipit a feugiat;M;Hispanic;985**;WA;COPD
+[41 - 60];aliquam;M;Hispanic;492**;MI;
+[80 and over];nunc nisl duis;M;White;197**;DE;
+[41 - 60];ipsum integer a;M;White;409**;KY;Stroke
+[21 - 40];non mattis pulvinar nulla pede;M;Hispanic;371**;TN;Heart_disease
+[21 - 40];aliquam;M;White;619**;IL;
+[21 - 40];cursus;M;Black;759**;TX;
+[61 - 80];libero;M;Hispanic;475**;IN;
+[61 - 80];in;M;White;339**;FL;
+[80 and over];erat eros viverra eget congue;M;Asian;851**;AZ;
+[21 - 40];vel pede morbi porttitor lorem;M;Hispanic;280**;NC;
+[41 - 60];platea dictumst morbi vestibulum;M;White;432**;OH;Heart_disease
+[61 - 80];congue vivamus metus arcu adipiscing;M;White;481**;MI;Diabetes
+[41 - 60];orci eget orci vehicula condimentum;M;White;206**;MD;COPD
+[61 - 80];congue risus semper;M;Black;711**;LA;COPD
+[41 - 60];posuere felis sed;M;Black;446**;OH;
+[21 - 40];venenatis lacinia aenean;M;Hispanic;712**;LA;
+[61 - 80];faucibus orci luctus et;M;White;236**;VA;
+[41 - 60];aliquam augue;M;Black;681**;NE;
+[61 - 80];tellus in sagittis dui;M;White;9**;PR;
+[21 - 40];eros suspendisse;M;White;787**;TX;COPD
+[21 - 40];nec nisi vulputate nonummy;M;White;900**;CA;COPD
+[41 - 60];odio cras mi pede malesuada;M;White;294**;SC;
+[21 - 40];fusce posuere felis sed lacus;M;Other;278**;NC;Diabetes
+[41 - 60];velit vivamus vel nulla;M;White;304**;GA;Stroke
+[61 - 80];pharetra magna vestibulum aliquet ultrices;M;Asian;130**;NY;
+[61 - 80];aenean fermentum donec ut;M;White;983**;WA;Heart_disease
+[41 - 60];quis;M;White;359**;AL;Alzheimers
+[21 - 40];sit amet sem fusce consequat;M;White;360**;AL;
+[41 - 60];orci luctus et;M;Black;88**;NJ;COPD
+[61 - 80];placerat ante nulla justo aliquam;M;White;290**;SC;COPD
+[61 - 80];vivamus metus arcu;M;Hispanic;327**;FL;COPD
+[41 - 60];lacus;M;Black;805**;CO;
+[21 - 40];amet consectetuer adipiscing elit proin;M;Black;926**;CA;Diabetes
+[41 - 60];ipsum integer;M;White;421**;KY;Diabetes
+[21 - 40];in felis eu;M;White;374**;TN;Pneumonia
+[21 - 40];risus;M;White;18**;MA;Nephritis
+[61 - 80];donec diam;M;White;972**;OR;Nephritis
+[61 - 80];ipsum primis in faucibus;M;White;898**;NV;
+[61 - 80];venenatis lacinia aenean sit;M;White;916**;CA;COPD
+[61 - 80];convallis tortor risus dapibus;M;White;577**;SD;
+[41 - 60];sit amet cursus id turpis;M;White;272**;NC;
+[41 - 60];elementum ligula vehicula consequat;M;Other;693**;NE;COPD
+[21 - 40];aliquet massa id;M;White;45**;ME;
+[61 - 80];odio elementum eu interdum eu;M;White;532**;WI;Heart_disease
+[41 - 60];praesent lectus vestibulum quam sapien;M;White;38**;NH;COPD
+[21 - 40];sapien urna pretium;M;Hispanic;341**;FL;COPD
+[21 - 40];ut nunc vestibulum;M;White;380**;TN;Pain
+[21 - 40];dapibus at diam nam tristique;M;White;600**;IL;Pain
+[61 - 80];orci luctus;M;White;406**;KY;Heart_disease
+[21 - 40];scelerisque quam turpis adipiscing lorem;M;White;770**;TX;
+[41 - 60];libero quis orci nullam molestie;M;White;21**;MA;COPD
+[41 - 60];integer;M;Black;752**;TX;COPD
+[21 - 40];gravida sem praesent;M;White;851**;AZ;COPD
+[21 - 40];ipsum ac;M;White;64**;CT;
+[61 - 80];enim blandit;M;White;104**;NY;
+[41 - 60];suscipit nulla elit ac nulla;M;Hispanic;600**;IL;COPD
+[80 and over];nibh in quis;M;White;27**;MA;
+[41 - 60];libero ut;M;White;78**;NJ;
+[21 - 40];massa;M;White;300**;GA;COPD
+[80 and over];rhoncus aliquet;M;White;329**;FL;Heart_disease
+[61 - 80];integer aliquet massa;M;White;775**;TX;COPD
+[41 - 60];ante vestibulum ante ipsum primis;M;Hispanic;870**;NM;COPD
+[21 - 40];ac enim;M;White;281**;NC;Heart_disease
+[61 - 80];sed interdum;M;White;906**;CA;COPD
+[61 - 80];viverra eget congue eget semper;M;White;67**;CT;
+[21 - 40];vitae mattis nibh ligula;M;White;142**;NY;Heart_disease
+[80 and over];quis turpis;M;Other;329**;FL;
+[21 - 40];magna;M;White;605**;IL;Diabetes
+[41 - 60];luctus;M;White;170**;PA;Depression
+[61 - 80];aenean sit;M;Other;537**;WI;
+[61 - 80];augue;M;White;902**;CA;
+[21 - 40];morbi non quam nec dui;M;White;721**;AR;Diabetes
+[21 - 40];in hac habitasse platea;M;White;346**;FL;Heart_disease
+[41 - 60];quis;M;Other;770**;TX;COPD
+[41 - 60];curae donec pharetra magna vestibulum;M;White;915**;CA;
+[41 - 60];eu sapien cursus vestibulum proin;M;White;456**;OH;
+[80 and over];lobortis vel dapibus;M;Black;760**;TX;COPD
+[61 - 80];turpis elementum;M;Hispanic;604**;IL;Heart_disease
+[61 - 80];habitasse platea dictumst;M;Black;435**;OH;Heart_disease
+[41 - 60];cubilia curae donec pharetra magna;M;White;70**;NJ;COPD
+[41 - 60];libero nam dui;M;Other;336**;FL;COPD
+[41 - 60];habitasse platea dictumst;M;White;190**;PA;
+[61 - 80];ut rhoncus aliquet;M;Hispanic;241**;VA;
+[21 - 40];diam id ornare imperdiet;M;White;900**;CA;
+[41 - 60];eget eleifend;M;Asian;308**;GA;COPD
+[61 - 80];tincidunt ante vel ipsum;M;Black;276**;NC;
+[61 - 80];quisque ut;M;Black;538**;WI;
+[61 - 80];erat curabitur gravida;M;Hispanic;760**;TX;COPD
+[41 - 60];in felis eu sapien cursus;M;White;832**;ID;
+[21 - 40];morbi sem mauris laoreet ut;M;White;112**;NY;
+[21 - 40];luctus et;M;White;405**;KY;COPD
+[21 - 40];accumsan tortor quis turpis;M;White;484**;MI;
+[21 - 40];congue etiam;M;Asian;560**;MN;COPD
+[41 - 60];felis sed interdum venenatis turpis;M;Hispanic;104**;NY;Heart_disease
+[41 - 60];ligula;M;White;650**;MO;
+[61 - 80];lacus morbi quis tortor id;M;Hispanic;933**;CA;
+[21 - 40];venenatis tristique fusce congue diam;M;White;759**;TX;
+[80 and over];dignissim vestibulum vestibulum ante;M;White;540**;WI;
+[41 - 60];ligula in lacus;M;Black;761**;TX;
+[41 - 60];primis in;M;White;473**;IN;
+[21 - 40];in congue;M;White;801**;CO;
+[61 - 80];ligula nec sem duis;M;White;76**;NJ;COPD
+[41 - 60];volutpat eleifend donec ut dolor;M;White;553**;MN;COPD
+[61 - 80];neque aenean auctor gravida;M;White;859**;AZ;COPD
+[61 - 80];proin at turpis;M;White;79**;NJ;COPD
+[21 - 40];libero rutrum ac lobortis vel;M;Other;992**;WA;
+[41 - 60];felis sed lacus morbi;M;Hispanic;945**;CA;COPD
+[41 - 60];lacinia;M;White;601**;IL;
+[41 - 60];proin interdum mauris non;M;Asian;782**;TX;
+[41 - 60];maecenas pulvinar lobortis est;M;Hispanic;123**;NY;Diabetes
+[61 - 80];morbi non lectus aliquam sit;M;White;85**;NJ;
+[80 and over];sapien dignissim vestibulum vestibulum ante;M;Hispanic;125**;NY;
+[61 - 80];lacus purus;M;Black;358**;AL;COPD
+[41 - 60];pulvinar nulla;M;White;6**;PR;Heart_disease
+[61 - 80];interdum eu tincidunt in;M;White;221**;VA;COPD
+[61 - 80];aliquam;M;Black;986**;WA;Alzheimers
+[41 - 60];mi;M;White;6**;PR;COPD
+[21 - 40];in felis eu;M;Asian;580**;ND;Pneumonia
+[21 - 40];egestas;M;White;236**;VA;
+[21 - 40];vitae nisi;M;Hispanic;482**;MI;
+[80 and over];velit;M;White;785**;TX;
+[21 - 40];consequat nulla nisl nunc nisl;M;White;76**;NJ;
+[21 - 40];ut odio cras mi;M;White;403**;KY;COPD
+[61 - 80];cras mi;M;Hispanic;741**;OK;
+[21 - 40];nullam varius nulla facilisi;M;White;358**;AL;COPD
+[41 - 60];velit;M;White;907**;CA;
+[41 - 60];viverra diam vitae;M;Hispanic;312**;GA;
+[21 - 40];morbi non lectus aliquam;M;White;166**;PA;
+[61 - 80];a suscipit nulla elit;M;Hispanic;325**;FL;COPD
+[21 - 40];feugiat et eros vestibulum ac;M;Asian;968**;HI;
+[21 - 40];scelerisque mauris;M;Other;856**;AZ;
+[80 and over];ultrices;M;Hispanic;704**;LA;
+[21 - 40];convallis tortor risus dapibus augue;M;White;995**;AK;Diabetes
+[21 - 40];pretium quis lectus suspendisse;M;Hispanic;917**;CA;Heart_disease
+[80 and over];enim sit amet;M;White;224**;VA;
+[41 - 60];nunc rhoncus dui;M;White;310**;GA;
+[41 - 60];primis in faucibus;M;Black;88**;NJ;COPD
+[41 - 60];posuere;M;Black;571**;SD;
+[41 - 60];aliquet ultrices erat;M;White;762**;TX;Heart_disease
+[21 - 40];amet nulla quisque arcu libero;M;White;427**;KY;COPD
+[61 - 80];ut dolor morbi vel lectus;M;Hispanic;973**;OR;
+[41 - 60];nulla nisl nunc;M;Black;88**;NJ;Depression
+[61 - 80];vel nulla eget eros;M;Hispanic;334**;FL;
+[21 - 40];amet cursus id turpis integer;M;Asian;761**;TX;COPD
+[61 - 80];auctor sed tristique in tempus;M;Other;539**;WI;
+[41 - 60];nulla ultrices aliquet maecenas leo;M;White;786**;TX;
+[41 - 60];faucibus orci luctus et;M;Hispanic;910**;CA;COPD
+[21 - 40];et;M;White;908**;CA;
+[21 - 40];quam;M;White;458**;OH;
+[21 - 40];et ultrices;M;White;562**;MN;
+[41 - 60];sapien cum sociis natoque;M;Other;443**;OH;Pneumonia
+[61 - 80];volutpat sapien;M;White;411**;KY;
+[61 - 80];pede morbi;M;Hispanic;435**;OH;Depression
+[80 and over];faucibus orci luctus et ultrices;M;White;302**;GA;COPD
+[21 - 40];risus semper porta volutpat quam;M;Other;605**;IL;
+[61 - 80];morbi odio;M;Hispanic;729**;AR;
+[21 - 40];lorem vitae mattis nibh ligula;M;White;331**;FL;
+[21 - 40];lectus suspendisse;M;Black;981**;WA;
+[21 - 40];et commodo vulputate justo;M;White;837**;ID;Heart_disease
+[21 - 40];vestibulum eget vulputate ut;M;Black;970**;OR;Alzheimers
+[41 - 60];eget massa tempor;M;White;383**;TN;Alzheimers
+[61 - 80];mauris ullamcorper purus sit amet;M;White;836**;ID;Heart_disease
+[41 - 60];sit;M;White;305**;GA;
+[41 - 60];sapien placerat;M;White;900**;CA;Diabetes
+[80 and over];neque aenean;M;White;464**;IN;
+[80 and over];in quis justo maecenas rhoncus;M;Black;287**;NC;COPD
+[41 - 60];tortor sollicitudin;M;White;483**;MI;Stroke
+[61 - 80];et commodo vulputate justo in;M;White;992**;WA;
+[61 - 80];donec vitae nisi nam;M;White;624**;IL;
+[80 and over];imperdiet;M;Asian;135**;NY;Heart_disease
+[41 - 60];erat vestibulum sed magna;M;White;684**;NE;
+[41 - 60];in eleifend quam a odio;M;White;945**;CA;Pain
+[61 - 80];cras;M;White;479**;IN;
+[41 - 60];in est risus auctor sed;M;White;489**;MI;Cancer
+[21 - 40];vel augue;M;White;18**;MA;
+[61 - 80];eget elit;M;White;432**;OH;COPD
+[41 - 60];maecenas pulvinar;M;Black;713**;LA;
+[61 - 80];dapibus duis at velit eu;M;White;80**;NJ;
+[80 and over];pharetra magna ac;M;Other;191**;PA;
+[41 - 60];quam;M;Black;431**;OH;
+[80 and over];nunc nisl duis bibendum felis;M;Other;66**;CT;
+[41 - 60];leo odio porttitor id;M;White;891**;NV;Nephritis
+[21 - 40];eu felis fusce posuere;M;White;681**;NE;COPD
+[41 - 60];faucibus orci;M;Hispanic;233**;VA;COPD
+[21 - 40];nullam molestie nibh;M;Asian;900**;CA;Heart_disease
+[61 - 80];consequat;M;White;895**;NV;COPD
+[41 - 60];adipiscing lorem vitae;M;White;103**;NY;
+[21 - 40];leo maecenas pulvinar lobortis est;M;White;134**;NY;Diabetes
+[61 - 80];ipsum ac;M;Hispanic;333**;FL;
+[80 and over];pellentesque;M;White;440**;OH;
+[21 - 40];ornare imperdiet sapien urna;M;White;28**;RI;

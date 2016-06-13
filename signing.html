@@ -1,0 +1,140 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="favicon.ico">
+
+    <title>Giant Eagle Healthier Choices Program - Enroll Page</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="bootstrap.min.css" rel="stylesheet">
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <link href="ie10-viewport-bug-workaround.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="blog.css" rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="ie-emulation-modes-warning.js"></script>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <script>
+      function judge() {
+        var x = document.getElementById('name').value;
+        var y = document.getElementById('date').value;
+        console.log(x.value);
+        console.log(y.value);
+        if (x == "") {
+          alert("You have to enter your name and today's date to accept it.");
+        } else if (y == ""){
+          alert("You have to enter your name and today's date to accept it.");
+        } else {
+          alert("You have successfully enrolled, thank you!")
+          window.location.href="Enrollment.html";
+        }
+      }
+    </script>
+  </head>
+
+  <body>
+
+    <div class="blog-masthead">
+      <div class="container">
+        <nav class="blog-nav">
+          <a class="blog-nav-item active" href="Enrollment.html">Home</a>
+          <a class="blog-nav-item" href="part2.html">Your Rights after Enrollment</a>
+          <a class="blog-nav-item" href="about.html">About</a>
+        </nav>
+      </div>
+    </div>
+
+    <div class="container">
+
+      <div class="blog-header">
+        
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-8 blog-main">
+
+        <h2 class="blog-title">Agreement</h2>
+        <hr>
+        <div class="panel panel-success">
+          <div class="panel-heading">
+            <h3 class="panel-title">The Giant Eagle Pharmacy Policy</h3>
+          </div>
+          <div class="panel-body">
+            I've carefully read all above sections of Giant Eagle Healthier Choices Program Policy and would like to enroll into this program and authorize Giant Eagle to use or disclose my Protected Health Information complied with the Law.
+          </div>
+        </div>
+
+      <form action="Enrollment.html">
+        <div class="input-group">
+          <span class="input-group-addon">ID:</span>
+          <input type="text" class="form-control" placeholder="Giant Eagle ID" aria-describedby="basic-addon1" required id="id">
+          <span class="input-group-addon">Your Name:</span>
+          <input type="text" class="form-control" placeholder="Name" aria-describedby="basic-addon1" required id="name">
+          <span class="input-group-addon">Today's Date:</span>
+          <input type="text" class="form-control" placeholder="mm/dd/yyyy" aria-describedby="basic-addon1" required id="date">
+        </div>
+
+        <br>
+        <div align="right">
+          <button type="button" class="btn btn-success" onclick="judge()">Accept</button>
+          <button type="button" class="btn btn-danger" onclick="{location.href='Enrollment.html'}">Decline</button>
+        </div>
+      </form>
+
+        <nav>
+            <ul class="pager">
+              <li><a href="part4.html">Previous</a></li>
+            </ul>
+          </nav>
+
+        </div><!-- /.blog-main -->
+
+        <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
+          <div class="sidebar-module sidebar-module-inset">
+            <h4>About</h4>
+            <p>This is the Giant Eagle Healthier Choices Program Privacy Policy</p>
+          </div>
+        </div><!-- /.blog-sidebar -->
+
+      </div><!-- /.row -->
+
+    </div><!-- /.container -->
+
+    <footer class="blog-footer">
+      <p>Giant Eagle Healthier Choices Program built by Team 6</p>
+      <p>Contact Us: Giant Eagle, Inc. 101 Kappa Drive Pittsburgh, PA 15238</p>
+      <p>Customer Service: 1-800-553-2324</p>
+      <p>
+        <a href="#">Back to top</a>
+      </p>
+    </footer>
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+    <script src="bootstrap.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="ie10-viewport-bug-workaround.js"></script>
+  </body>
+</html>
